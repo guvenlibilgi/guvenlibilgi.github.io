@@ -17,14 +17,35 @@
   </url>
   
   <url>
-    <loc>https://doks.netlify.app/docs/chat-apps/introduction/</loc>
+    <loc>https://doks.netlify.app/docs/chat-apps/chat-apps-genel/</loc>
     <lastmod>2020-10-06T08:48:57+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>https://doks.netlify.app/docs/vpn/</loc>
+    <lastmod>2020-10-06T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://doks.netlify.app/docs/vpn/vpn-nedir/</loc>
+    <lastmod>2020-10-13T15:21:01+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://doks.netlify.app/docs/prologue/introduction/</loc>
+    <lastmod>2020-10-06T08:48:57+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://doks.netlify.app/docs/vpn/vpn-guvenligi/</loc>
     <lastmod>2020-10-06T08:48:57+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -88,6 +109,13 @@
   
   <url>
     <loc>https://doks.netlify.app/docs/chat-apps/chat-apps-faq/</loc>
+    <lastmod>2020-11-16T13:59:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://doks.netlify.app/docs/vpn/vpn-faq/</loc>
     <lastmod>2020-11-16T13:59:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
